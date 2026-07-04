@@ -1,4 +1,4 @@
-# 📝 To-Do App (Python + FreeSimpleGUI)
+# 📝 To-Do App
 
 A simple desktop **To-Do Application** built with **Python** and **FreeSimpleGUI**. This project allows users to manage their daily tasks through an easy-to-use graphical interface while storing data in a text file for persistence.
 
